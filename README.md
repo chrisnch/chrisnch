@@ -8,7 +8,7 @@ My hands-on work has mainly involved **systems integration, interoperability, op
 
 ## Featured Open-Source Contribution
 
-### 🎮 VoidLink — Real physical rumble for GameSir G8+ MFi on iOS
+### 🎮 VoidLink — Physical dual-motor rumble for GameSir G8+ MFi on iOS
 
 I contributed the **first publicly merged implementation enabling real physical dual-motor rumble for the GameSir G8+ MFi in iOS game streaming**.
 
@@ -30,11 +30,11 @@ I like contributing back to open-source tools I actually use. I pay attention no
 
 Authored and scoped a reproducible long-session macOS recording-cue failure with environment details, source-level tracing, and acceptance criteria. Maintainers subsequently isolated degraded WebKit AudioContext behaviour and developed regression coverage.
 
-### EasyDict — [Issue #77](https://github.com/tisfeng/Easydict/issues/77)
+### EasyDict — [Issue #77](https://github.com/tisfeng/Easydict/issues/77#issuecomment-1529151897)
 
 Contributed cross-version reproduction evidence for a DeepL Traditional Chinese regression across multiple translation modes. The maintainer traced it to conversion logic lost during an API refactor and marked it for a release fix.
 
-### OpenCode — [Issue #9790](https://github.com/anomalyco/opencode/issues/9790)
+### OpenCode — [Issue #9790](https://github.com/anomalyco/opencode/issues/9790#issuecomment-4225272333)
 
 Contributed root-cause diagnosis to a Windows terminal interaction issue affecting multiple users, identifying an external Cherry Studio selection-helper interaction that was injecting unintended `Ctrl+C` input and sharing a practical mitigation.
 
